@@ -69,3 +69,4 @@ $ python train-detector.py --model models/eccv-model-scracth --name my-trained-m
 我们知道并不是每个人都有可用的 NVIDIA 卡，有时正确配置 CUDA 很麻烦。 
 因此，我们选择将 Darknet makefile 设置为默认使用 CPU 而不是 GPU，以利于大多数人轻松执行而不是快速性能。
 因此，车辆检测和 OCR 会相当慢。 如果您想加速它们，请编辑 Darknet makefile 变量以使用GPU。
+/s/1GgH4svTMP5vbETl67g1QXQ a83k /guyuealian/article/details/128099672
